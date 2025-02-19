@@ -15,6 +15,7 @@ Prerequisites:
   - plotly express
 
 
+
 Installation in local:
 1. Clone the repository:
    git clone https://github.com/gerzon13medin/project-sprint-7-tripleten.git
@@ -28,8 +29,8 @@ Installation in local:
 5. Install dependencies:
    pip install -r requirements.txt
 
-How to run the application:
-To run the application, use the following command in the terminal:
+How to run the application:  
+To run the application, use the following command in the terminal:  
    streamlit run app.py
 
 
