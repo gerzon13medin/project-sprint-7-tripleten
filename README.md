@@ -34,7 +34,7 @@ To run the application, use the following command in the terminal:
 
 
 Project Structure:  
-📂 PROJECT-SPRINT-7-TRIPLETEN  
+📂 project-sprint-7-tripleten    
  📂 notebooks             # Auxiliary file to test code                 
  📂 src/utils             # Auxiliary functions  
  📂 streamlit             # Main file to configurate the web service  
