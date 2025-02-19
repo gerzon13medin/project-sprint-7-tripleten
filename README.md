@@ -35,9 +35,9 @@ To run the application, use the following command in the terminal:
 
 Project Structure:  
 📂 project-sprint-7-tripleten    
-  📂 notebooks             # Auxiliary file to test code                 
-  📂 src/utils             # Auxiliary functions  
-  📂 streamlit             # Main file to configurate the web service  
+└── 📂 notebooks             # Auxiliary file to test code                 
+└── 📂 src/utils             # Auxiliary functions  
+└── 📂 streamlit             # Main file to configurate the web service  
 ├── app.py                # Main appliation file  
 ├── README.txt            # This file  
 ├── requirements.txt      # List of dependencies  
