@@ -35,13 +35,13 @@ To run the application, use the following command in the terminal:
 
 Project Structure:
 📂 PROJECT-SPRINT-7-TRIPLETEN
- 📂 notebooks             # Auxiliary file to test code                
- 📂 src/utils             # Auxiliary functions 
- 📂 streamlit             # Main file to configurate the web service
-├── app.py                # Main appliation file
-├── README.txt            # This file
-├── requirements.txt      # List of dependencies
-└── vehicles_us.csv       # Dataset
+ 📂 notebooks             # Auxiliary file to test code                 
+ 📂 src/utils             # Auxiliary functions  
+ 📂 streamlit             # Main file to configurate the web service  
+├── app.py                # Main appliation file  
+├── README.txt            # This file  
+├── requirements.txt      # List of dependencies  
+└── vehicles_us.csv       # Dataset  
  
 
 
