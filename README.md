@@ -33,8 +33,8 @@ To run the application, use the following command in the terminal:
    streamlit run app.py
 
 
-Project Structure:
-📂 PROJECT-SPRINT-7-TRIPLETEN
+Project Structure:  
+📂 PROJECT-SPRINT-7-TRIPLETEN  
  📂 notebooks             # Auxiliary file to test code                 
  📂 src/utils             # Auxiliary functions  
  📂 streamlit             # Main file to configurate the web service  
